@@ -33,9 +33,11 @@ Speech Emotion Recognition project using the Wav2Vec2-base model to classify aud
 
 ## Dataset
 
-> **Note:** The dataset used for this project is excluded from this repository due to size limits. 
+The dataset used for this project is hosted on Kaggle due to GitHub file size limits.
 
-Place your raw audio dataset inside a folder named `dataset/` in the root directory before running the preprocessing or training notebooks.
+👉 **[Download the Speech Emotion Recognition Dataset on Kaggle](https://www.kaggle.com/datasets/muhammadessaai/speech-emotions-recognition-dataset)**
+
+Once downloaded, extract the archive and place the raw audio files inside a folder named `dataset/` in the root directory before running the preprocessing or training notebooks.
 
 ## Usage
 
